@@ -3,7 +3,7 @@
  * Input: None
  * Output:Random number between o and 200*/
 import java.util.*;
-class GenerateRandomNumber {
+public class GenerateRandomNumber {
    public static void main(String[] args) {
       int counter;
       Random rnum = new Random();
